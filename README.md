@@ -1,5 +1,13 @@
-# .data-ptr-swap
-i stole this from some guys private repo on github
-This is Detected on Battleye(im suprised to silly bastine sutter) and Easy Anti Cheat
-i release this bc funny
-i did not code this i post for mems
+# Undetected cheat driver source 
+
+the source for the driver that i posted Enjoy ..!
+
+link for released driver : https://github.com/RTMano/undetected-cheat-driver
+
+**driver fully ud on EAC detected on BE playing + 3 days on eac still no ban enjoy playing !!**
+
+**Dm Me on discord if you need help !RTMano#1111 join my discord https://discord.gg/NT6WEPtqNe**
+
+--DO NOT USE IT TO MAKE A PAID CHEAT !!--
+
+Enjoy !
